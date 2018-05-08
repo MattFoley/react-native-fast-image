@@ -40,7 +40,8 @@
     "test:pretty": "prettier-check --write --no-semi --single-quote --trailing-comma all ./index.js ./ReactNativeFastImageExample/FastImage/*.js ./react-native-fast-image-server/*.js"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "SDWebImage": "rs/SDWebImage#ad9f1a24360b2c7581f136e3bd987ff700862ce7"
   },
   "devDependencies": {
     "babel-jest": "^21.2.0",
